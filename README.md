@@ -3,4 +3,4 @@ Helper for making quiz questions.
 
 Live demo:
 
-http://frankkienl.github.io/QuizUtil_html
+https://frankkienl.github.io/QuizUtil_html
